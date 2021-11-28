@@ -1,6 +1,6 @@
-- Hi, I’m @camrowtf
--I’m interested in cybersec, coding, computers
--I’m currently learning tryhackme
-- 📫 discord: camro#0666
-
-:)
+==================================[INFO]===============================
+[Name] Camro
+[Interests] Cyber Security, Programming, Ethical Hacking
+[Hobbies] Ice skating, drawing, THM/HTB
+[Bio]
+  > IT noob, learning everyday. >:)
